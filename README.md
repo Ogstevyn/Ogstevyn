@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [RESTFUL Auth Api](https://github.com/Ogstevyn/restApi.git)
 
-- 🌱 I’m currently learning **Pyhton, N8N Automation, ...**
+- 🌱 I’m currently learning ** N8N Automation ...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ogstevyn/](https://github.com/Ogstevyn/)
 
